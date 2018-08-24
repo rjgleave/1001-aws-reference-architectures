@@ -5,8 +5,6 @@ This is my Architecture File Cabinet - for Storing all my Reference Architecture
 
 ![Reference Architecture](https://github.com/rjgleave/aws-batch-api-submitter/blob/master/assets/trigger-batch-using-api-gateway.png)
 
-Each s   
-
 
 What's Here
 -----------
@@ -23,6 +21,6 @@ TABLE OF CONTENTS
 
 AWS Batch Universal Scheduler
 
-![aws-batch-universal-scheduler](https://github.com/rjgleave/aws-batch-api-submitter/blob/master/assets/trigger-batch-using-api-gateway.png)
+![aws-batch-universal-scheduler](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler_tn.jpg)
 
 This is a working architecture (implemented here) which creates uses AWS Batch job scheduler to orchestrate complex workloads across multiple distributed systems.     
