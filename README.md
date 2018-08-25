@@ -1,5 +1,5 @@
 # A Thousand and One AWS Reference Architectures (someday)
-==========================================================
+---
 
 This is my Architecture File Cabinet - for Storing all my Reference Architectures
 
@@ -7,7 +7,7 @@ This is my Architecture File Cabinet - for Storing all my Reference Architecture
 
 
 ## What's Here
------------
+--------------
 
 This repo includes a series of sub folders containing reference architecutre diagrams.  
 
@@ -16,6 +16,8 @@ This repo includes a series of sub folders containing reference architecutre dia
     *   a PDF of the reference architecture
     *   xxx
     *   xxx 
+
+---
 
 ## TABLE OF CONTENTS
 
