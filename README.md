@@ -3,7 +3,7 @@
 
 This is a file cabinet for Storing all my Reference Architectures
 
-![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/reference-architecture-banner.jpg)
+![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/reference-architecture-banner-plus-cabinet.jpg)
 
 ---
 
