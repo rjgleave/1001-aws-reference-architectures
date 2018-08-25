@@ -10,13 +10,12 @@ This is my Architecture File Cabinet - for Storing all my Reference Architecture
 ## What's Here
 ==============
 
-This repo includes a series of sub folders containing reference architecutre diagrams.  
+This repo includes a series of sub folders containing reference architecture diagrams.  
 
 1. README.md - this file
 2. FOLDERS: each folder includes:
     *   a PDF of the reference architecture
-    *   xxx
-    *   xxx 
+    *   a couple of different size images - regular and thumbnail
 
 ---
 ## TABLE OF CONTENTS
