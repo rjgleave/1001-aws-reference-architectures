@@ -3,7 +3,7 @@
 
 This is my Architecture File Cabinet - for Storing all my Reference Architectures
 
-![Reference Architecture](https://github.com/rjgleave/aws-batch-api-submitter/blob/master/assets/trigger-batch-using-api-gateway.png)
+![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/reference-architecture-banner.jpg)
 
 ---
 
