@@ -1,13 +1,14 @@
-# A Thousand and One AWS Reference Architectures (someday)
+# A Thousand and One AWS Reference Architectures
 ---
 
 This is my Architecture File Cabinet - for Storing all my Reference Architectures
 
 ![Reference Architecture](https://github.com/rjgleave/aws-batch-api-submitter/blob/master/assets/trigger-batch-using-api-gateway.png)
 
+---
 
 ## What's Here
---------------
+==============
 
 This repo includes a series of sub folders containing reference architecutre diagrams.  
 
@@ -18,8 +19,8 @@ This repo includes a series of sub folders containing reference architecutre dia
     *   xxx 
 
 ---
-
 ## TABLE OF CONTENTS
+---
 
 | Command | Description | Link |
 | --- | --- | --- |
