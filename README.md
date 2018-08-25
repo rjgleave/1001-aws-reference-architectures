@@ -3,7 +3,7 @@
 
 This is my Architecture File Cabinet - for Storing all my Reference Architectures
 
-![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/reference-architecture-banner.jpg)
+![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/reference-architecture-banner.jpg)
 
 ---
 
@@ -27,5 +27,5 @@ This repo includes a series of sub folders containing reference architecture dia
 | AWS Batch Universal Scheduler  | Show file differences that haven't been staged | ![aws-batch-universal-scheduler](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler_tn.jpg)
 
 
-
+[![IMAGE ALT TEXT HERE](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler_tn.jpg)](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler.pdf)
     
