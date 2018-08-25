@@ -8,7 +8,7 @@ This is my Architecture File Cabinet - for Storing all my Reference Architecture
 ---
 
 ## What's Here
-**
+
 
 This repo includes a series of sub folders containing reference architecture diagrams.  
 
@@ -30,10 +30,9 @@ This repo includes a series of sub folders containing reference architecture dia
 AWS Batch Universal Scheduler  | This is a working architecture (implemented here) which creates uses AWS Batch job scheduler to orchestrate complex workloads across multiple distributed systems. |
 
 
-| Command | Description |
-| --- | --- |
-| AWS Batch Universal Scheduler | uses AWS Batch job scheduler to orchestrate complex workloads |
-| AWS Batch Universal Scheduler | Show file differences that haven't been staged |
+| Command | Description | Link | 
+| AWS Batch Universal Scheduler | uses AWS Batch job scheduler to orchestrate complex workloads | ![aws-batch-universal-scheduler](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler_tn.jpg)
+| AWS Batch Universal Scheduler | Show file differences that haven't been staged | ![aws-batch-universal-scheduler](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/aws-batch-universal-scheduler/AWS%20Batch%20-%20Universal%20Scheduler_tn.jpg)
 
 
 
