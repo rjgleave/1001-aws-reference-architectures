@@ -33,7 +33,6 @@ This repo includes a series of sub folders containing reference architecture dia
 | Knowledge Management Architecture  | A conceptual architecture for an advanced knowledge management platform using deep learning components | [![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/link_icon_tiny.jpg)](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/knowledge-management-architecture/KM%20Detailed%20Architecture%20v3.pdf)
 | Legacy App Modernization  | A reference architecture for decomposing a legacy on-premise application with a scalable microservice front-end | [![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/link_icon_tiny.jpg)](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/legacy-app-modernization-using-microservices/Legacy%20App%20Modernization%20to%20Microservices.pdf)
 | Multi-account Microservice Landing Zone  | A starting point for a multi-account, serverless microservice environment | [![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/link_icon_tiny.jpg)](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/multi-account-microservice-landing-zone/Multi-Account%20Landing-Zone.pdf)
-
-
+| Multi-region Serverless App Architecture | A base architecture for implementing a highly-available serverless application stack | [![Reference Architecture](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/assets/link_icon_tiny.jpg)](https://github.com/rjgleave/1001-aws-reference-architectures/blob/master/multi-region-HA-reference-architecture/Multi-region-HA-reference-architecture.pdf)
 
     
