@@ -10,7 +10,7 @@ This is a file cabinet for Storing all my Reference Architectures
 ## What's Here
 
 
-This repo includes a series of sub folders containing reference architecture diagrams.  
+This repo includes a series of sub folders containing sample reference architecture diagrams.  
 
 1. README.md - this file
 2. FOLDERS: each folder includes:
